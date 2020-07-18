@@ -14,7 +14,7 @@ This exercise serves the purpose of evaluating your javascript(typescript) knowl
 
 # Submission
 
-- Please send a Pull Request to this repository for your final entry
+- Please Fork this repo and send a Pull Request for your final entry
 - You have this week to complete this task (until July 24, 2020 but the earlier you submit the better). Let me know ASAP as soon as you complete so I can schedule a review meeting.
 
 ## Thank you! Please contact me for clarifications and further assistance.
